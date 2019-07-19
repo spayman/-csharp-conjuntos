@@ -1,0 +1,59 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\flavi\\source\\repos\\Exercicio_05_Conjunto\\Exercicio_05_Conjunto\\Exercicio_05_Conjunto.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\flavi\\source\\repos\\Exercicio_05_Conjunto\\Exercicio_05_Conjunto\\Exercicio_05_Conjunto.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\flavi\\source\\repos\\Exercicio_05_Conjunto\\Exercicio_05_Conjunto\\Exercicio_05_Conjunto.csproj",
+        "projectName": "Exercicio_05_Conjunto",
+        "projectPath": "C:\\Users\\flavi\\source\\repos\\Exercicio_05_Conjunto\\Exercicio_05_Conjunto\\Exercicio_05_Conjunto.csproj",
+        "packagesPath": "C:\\Users\\flavi\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\flavi\\source\\repos\\Exercicio_05_Conjunto\\Exercicio_05_Conjunto\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\flavi\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp2.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp2.1": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp2.1": {
+          "dependencies": {
+            "Microsoft.NETCore.App": {
+              "target": "Package",
+              "version": "[2.1.0, )",
+              "autoReferenced": true
+            }
+          },
+          "imports": [
+            "net461"
+          ],
+          "assetTargetFallback": true,
+          "warn": true
+        }
+      }
+    }
+  }
+}

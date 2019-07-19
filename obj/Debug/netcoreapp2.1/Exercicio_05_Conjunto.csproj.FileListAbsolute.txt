@@ -1,0 +1,11 @@
+C:\Users\flavi\source\repos\Exercicio_05_Conjunto\Exercicio_05_Conjunto\bin\Debug\netcoreapp2.1\Exercicio_05_Conjunto.deps.json
+C:\Users\flavi\source\repos\Exercicio_05_Conjunto\Exercicio_05_Conjunto\bin\Debug\netcoreapp2.1\Exercicio_05_Conjunto.runtimeconfig.json
+C:\Users\flavi\source\repos\Exercicio_05_Conjunto\Exercicio_05_Conjunto\bin\Debug\netcoreapp2.1\Exercicio_05_Conjunto.runtimeconfig.dev.json
+C:\Users\flavi\source\repos\Exercicio_05_Conjunto\Exercicio_05_Conjunto\bin\Debug\netcoreapp2.1\Exercicio_05_Conjunto.dll
+C:\Users\flavi\source\repos\Exercicio_05_Conjunto\Exercicio_05_Conjunto\bin\Debug\netcoreapp2.1\Exercicio_05_Conjunto.pdb
+C:\Users\flavi\source\repos\Exercicio_05_Conjunto\Exercicio_05_Conjunto\obj\Debug\netcoreapp2.1\Exercicio_05_Conjunto.csprojAssemblyReference.cache
+C:\Users\flavi\source\repos\Exercicio_05_Conjunto\Exercicio_05_Conjunto\obj\Debug\netcoreapp2.1\Exercicio_05_Conjunto.csproj.CoreCompileInputs.cache
+C:\Users\flavi\source\repos\Exercicio_05_Conjunto\Exercicio_05_Conjunto\obj\Debug\netcoreapp2.1\Exercicio_05_Conjunto.AssemblyInfoInputs.cache
+C:\Users\flavi\source\repos\Exercicio_05_Conjunto\Exercicio_05_Conjunto\obj\Debug\netcoreapp2.1\Exercicio_05_Conjunto.AssemblyInfo.cs
+C:\Users\flavi\source\repos\Exercicio_05_Conjunto\Exercicio_05_Conjunto\obj\Debug\netcoreapp2.1\Exercicio_05_Conjunto.dll
+C:\Users\flavi\source\repos\Exercicio_05_Conjunto\Exercicio_05_Conjunto\obj\Debug\netcoreapp2.1\Exercicio_05_Conjunto.pdb
